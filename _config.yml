@@ -1,0 +1,24 @@
+title: Math4ML
+description: >-
+  Mathematics for Machine Learning, a Special Interest Group of the Australian
+  Mathematical Society. Seminar recordings, slides, and events.
+url: "https://math4ml-au.github.io"
+baseurl: ""
+lang: en-AU
+timezone: Australia/Adelaide
+
+links:
+  group: "https://austms.org.au/research-group/mathematics-for-machine-learning-math4ml/"
+  membership: "https://austms.org.au/membership/"
+  bluesky: "https://bsky.app/profile/math4ml.bsky.social"
+  linkedin: "https://www.linkedin.com/company/math4ml"
+  youtube: "https://www.youtube.com/@Math4ML-o5y"
+
+exclude:
+  - AGENTS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - other_docs
+  - vendor
+  - node_modules

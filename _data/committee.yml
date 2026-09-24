@@ -1,0 +1,32 @@
+# Names, roles, affiliations, and profile links from the AustMS listing:
+# https://austms.org.au/research-group/mathematics-for-machine-learning-math4ml/
+# Displayed in this order. Update this file when the committee changes.
+- name: "Sevvandi Kandanaarachchi"
+  role: "Chair"
+  affiliation: "CSIRO"
+  url: "https://people.csiro.au/k/s/sevvandi-kandanaarachchi"
+
+- name: "Dino Sejdinovic"
+  role: "Secretary"
+  affiliation: "Adelaide University"
+  url: "https://researchers.adelaide.edu.au/profile/dino.sejdinovic"
+
+- name: "Yiming Ying"
+  role: "Treasurer"
+  affiliation: "University of Sydney"
+  url: "https://profiles.sydney.edu.au/yiming.ying"
+
+- name: "Melissa Humphries"
+  role: "Ordinary Member"
+  affiliation: "Adelaide University"
+  url: "https://researchers.adelaide.edu.au/profile/melissa.humphries"
+
+- name: "Ian Gallagher"
+  role: "Ordinary Member"
+  affiliation: "University of Melbourne"
+  url: "https://findanexpert.unimelb.edu.au/profile/1094819-ian-gallagher"
+
+- name: "Joel Wills"
+  role: "Student Member"
+  affiliation: "University of Sydney"
+  url: "https://www.maths.usyd.edu.au/ut/people?who=J_Wills"

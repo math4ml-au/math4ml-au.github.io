@@ -1,0 +1,15 @@
+# Add seminars here; the site displays the most recent first.
+# Dates use YYYY-MM-DD. Recording, slides, and abstract are optional.
+- title: "Structures in deep neural networks"
+  speaker: "Ding-Xuan Zhou"
+  affiliation: "University of Sydney"
+  date: 2026-09-07
+  recording: "https://www.youtube.com/watch?v=UscpPBfRxp0"
+  slides: "/seminar_slides/dxZhou Math4ML 2026 tk.pdf"
+  # Reproduced verbatim from other_docs/dxZhou Math4ML 2026.tex.
+  abstract: |-
+    Deep learning has been widely applied and brought breakthroughs in speech recognition,
+    computer vision, natural language processing, and many other domains. The involved deep neural network architectures and computational issues have been well studied in machine learning. But not much is known about the modelling, approximation or generalization abilities of deep learning models with network architectures and structures, due to some differences between the classical fully-connected neural networks and structured ones used in deep learning.
+
+    An important family of structured deep neural networks are deep convolutional neural networks (CNNs) induced by convolutions. It is believed that local shift-invariance of natural images and speeches plays an essential role in the efficiency of CNNs. Another family of structured deep neural networks are transformers based on attention structures where variable dependence is believed to be crucial in processing natural language data.
+    This talk describes approximation and generalization analysis of deep CNNs, transformers, and related structured deep neural networks.
