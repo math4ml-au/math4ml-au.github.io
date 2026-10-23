@@ -46,7 +46,7 @@ title: Math4ML · Mathematics for Machine Learning
   <h2 id="events-title">Events</h2>
   {% for event in site.data.events %}
   <article class="event" aria-labelledby="event-{{ forloop.index }}">
-    {% if event.date %}<time class="entry-date" datetime="{{ event.date | date: '%Y-%m-%d' }}">{{ event.date | date: '%-d %B %Y' }}</time>{% endif %}
+    {% if event.date %}<time class="entry-date" datetime="{{ event.date | date: '%Y-%m-%d' }}">{% if event.date_label %}{{ event.date_label | escape }}{% else %}{{ event.date | date: '%-d %B %Y' }}{% endif %}</time>{% endif %}
     <h3 id="event-{{ forloop.index }}">{% if event.url %}<a href="{{ event.url | relative_url | escape }}">{{ event.title | escape }}</a>{% else %}{{ event.title | escape }}{% endif %}</h3>
     {% if event.location %}<p class="event-location">{{ event.location | escape }}</p>{% endif %}
     {% if event.description %}<div class="event-description">{{ event.description | markdownify }}</div>{% endif %}
