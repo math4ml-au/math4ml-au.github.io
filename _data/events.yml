@@ -1,2 +1,11 @@
 # Add event announcements here when ready. See README.md for an example.
-[]
+- title: "CTAC 2026 special session: Emerging mathematical challenges in machine learning"
+  date: 2026-12-11
+  location: "University of Sydney, Sydney"
+  description: "Morning session."
+  url: "https://www.sydney.edu.au/science/schools/school-of-mathematics-and-statistics/research/computational-techniques-and-applications-conference-2026.html"
+
+- title: "FIMI Down Under 2026"
+  location: "National Wine Centre of Australia, Adelaide"
+  description: "Workshop on Functional Inference and Machine Intelligence, 13–14 December 2026."
+  url: "https://kips-lab.github.io/fimi-downunder/"
